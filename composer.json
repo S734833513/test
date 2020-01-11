@@ -1,0 +1,17 @@
+{
+    "name": "s734833513/test",
+    "description": "this is my demo",
+    "type": "no",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "S734833513",
+            "email": "shizhijian1996@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+	"psr-4":{"src\\tests\\":"src"}
+	}
+}
